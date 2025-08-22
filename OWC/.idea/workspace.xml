@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="070cf782-d71e-47f4-b076-01f2541ac581" name="Changes" comment="Logo and title fixed to centre" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Drive_Cycle_Train" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Raksh-Application-Engineer&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Raksh-Application-Engineer/OWC_Repo-Test-.git",
+    "accountId": "560e87f4-1d05-4533-8fbb-00b51c9a53f4"
+  },
+  "recentNewPullRequestHead": {
+    "server": {
+      "useHttp": false,
+      "host": "github.com",
+      "port": null,
+      "suffix": null
+    },
+    "owner": "gremot-mobility",
+    "repository": "OWC"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2qywYuOPr9Kxa2eLKRIq72Ob5zs" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Python.gui_v2.py.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.motor_controller_v2.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Rakshith K/Desktop/Git_Prj_Repo/One_way_Clutch/OWC/src/core_logic&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Rakshith K\Desktop\OWC" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Rakshith K\Desktop\Git_Prj_Repo\One_way_Clutch\OWC\src\logs" />
+      <recent name="C:\Users\Rakshith K\Desktop\Git_Prj_Repo\One_way_Clutch\OWC\src\api's" />
+      <recent name="C:\Users\Rakshith K\Desktop\Git_Prj_Repo\One_way_Clutch\OWC\src\constants" />
+      <recent name="C:\Users\Rakshith K\Desktop\Git_Prj_Repo\One_way_Clutch\OWC\src\gui" />
+      <recent name="C:\Users\Rakshith K\Desktop\Git_Prj_Repo\One_way_Clutch\OWC\src\core_logic" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="pip freeze &gt; requirements.txt" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="gui_v2.py" type="PythonConfigurationType" factoryName="Python">
+      <module name="OWC" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\Rakshith K\Desktop\Git_Prj_Repo\One_way_Clutch\OWC" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gui_v2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="070cf782-d71e-47f4-b076-01f2541ac581" name="Changes" comment="" />
+      <created>1735648178746</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735648178746</updated>
+    </task>
+    <task id="LOCAL-00001" summary="setting up motor connection">
+      <option name="closed" value="true" />
+      <created>1735649086616</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735649086616</updated>
+    </task>
+    <task id="LOCAL-00002" summary="setting read motor data">
+      <option name="closed" value="true" />
+      <created>1735725896012</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735725896012</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added the core logic">
+      <option name="closed" value="true" />
+      <created>1735726121908</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1735726121908</updated>
+    </task>
+    <task id="LOCAL-00004" summary="GUI for the logic">
+      <option name="closed" value="true" />
+      <created>1735726905835</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735726905835</updated>
+    </task>
+    <task id="LOCAL-00005" summary="updated gui">
+      <option name="closed" value="true" />
+      <created>1735730727703</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1735730727703</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added the API to launch the GUI part">
+      <option name="closed" value="true" />
+      <created>1738907881671</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1738907881671</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Removed temperature constraint for the motor">
+      <option name="closed" value="true" />
+      <created>1740206097098</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1740206097098</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Modified logic with displaying Faults and warnings with auto recovery features">
+      <option name="closed" value="true" />
+      <created>1741424652113</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1741424652113</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Modified logic with displaying Faults and warnings with auto recovery features">
+      <option name="closed" value="true" />
+      <created>1741424708330</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1741424708330</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Changes made in writing cycle data logic">
+      <option name="closed" value="true" />
+      <created>1741669242954</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1741669242954</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Changes made in writing cycle data logic">
+      <option name="closed" value="true" />
+      <created>1741670092070</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1741670092070</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Logic Modification from threading to asyncio">
+      <option name="closed" value="true" />
+      <created>1746689909823</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1746689909823</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Logo and title fixed to centre">
+      <option name="closed" value="true" />
+      <created>1750827994394</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1750827994395</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="setting up motor connection" />
+    <MESSAGE value="setting read motor data" />
+    <MESSAGE value="added the core logic" />
+    <MESSAGE value="GUI for the logic" />
+    <MESSAGE value="updated gui" />
+    <MESSAGE value="Added the API to launch the GUI part" />
+    <MESSAGE value="Removed temperature constraint for the motor" />
+    <MESSAGE value="Modified logic with displaying Faults and warnings with auto recovery features" />
+    <MESSAGE value="Changes made in writing cycle data logic" />
+    <MESSAGE value="Logic Modification from threading to asyncio" />
+    <MESSAGE value="Logo and title fixed to centre" />
+    <option name="LAST_COMMIT_MESSAGE" value="Logo and title fixed to centre" />
+  </component>
+</project>
