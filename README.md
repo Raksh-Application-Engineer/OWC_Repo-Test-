@@ -45,9 +45,20 @@ cd OneWayClutchTester
 ```
 
 ### 2. One-Command Setup
+
+**If Python is properly installed**:
 ```bash
 python install.py
 ```
+
+**If you get "Python was not found" error**:
+```bash
+py install.py
+```
+
+**If both fail, install Python first**:
+- **Windows**: Get Python from [Microsoft Store](ms-windows-store://pdp/?ProductId=9NRWMJP3717K) or [python.org](https://www.python.org/downloads/)
+- **Linux**: `sudo apt install python3 python3-pip python3-venv`
 
 This single command will:
 - Create a virtual environment
@@ -213,9 +224,56 @@ DEFAULT_TEST_PARAMS = {
 }
 ```
 
-## Troubleshooting
+## Common Installation Issues & Solutions
 
-### Common Issues
+### "Python was not found" Error
+
+This is the most common issue on Windows. Here's how to fix it:
+
+#### Solution 1: Use Python Launcher
+```cmd
+py --version
+py install.py
+```
+
+#### Solution 2: Install Python (First Time Users)
+
+**Windows - Method A (Recommended)**:
+1. Press `Win + S`, search "Microsoft Store"
+2. Search for "Python 3.12"
+3. Click "Install"
+4. After installation, restart command prompt
+5. Run: `python install.py`
+
+**Windows - Method B**:
+1. Visit [python.org/downloads](https://www.python.org/downloads/)
+2. Download Python 3.12+ for Windows
+3. **IMPORTANT**: Check "Add Python to PATH" during installation
+4. Restart command prompt
+5. Run: `python install.py`
+
+**Linux (Ubuntu/Debian)**:
+```bash
+sudo apt update
+sudo apt install python3 python3-pip python3-venv
+python3 install.py
+```
+
+**Linux (CentOS/RHEL)**:
+```bash
+sudo yum install python3 python3-pip
+python3 install.py
+```
+
+#### Solution 3: Find Existing Python Installation
+```cmd
+# Search for Python on your system
+where python /R C:\
+# or
+dir "C:\Program Files\Python*" /AD
+```
+
+### Other Common Issues
 
 #### "No serial ports found"
 **Solution**:
