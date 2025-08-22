@@ -1,0 +1,5629 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--All Parameters - Created: 2025-05-21 07.44.07 +05:30 (India Standard Time)-->
+<ArrayOfSerializableParameter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SerializableParameter>
+    <!--Controller output current rating (Amps) = 268-->
+    <Address>0</Address>
+    <Value>268</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Controller input voltage rating (Volts) = 100-->
+    <Address>1</Address>
+    <Value>100</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Switching frequency (Hertz) = 10000-->
+    <Address>2</Address>
+    <Value>10000</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Dead time (ns) = 1000-->
+    <Address>3</Address>
+    <Value>1000</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Baud rate (Baud) = 115200-->
+    <Address>4</Address>
+    <Value>1152</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Slave ID (Node #) = 2-->
+    <Address>5</Address>
+    <Value>2</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--HW configuration vector () = 0011000000000010-->
+    <Address>6</Address>
+    <Value>12290</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Current regulator Kp () = 4.4136-->
+    <Address>7</Address>
+    <Value>18078</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Current regulator Ki () = 603.5-->
+    <Address>8</Address>
+    <Value>9656</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Speed regulator Kp () = 1.6519-->
+    <Address>9</Address>
+    <Value>6766</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Speed regulator Ki () = 0.3516-->
+    <Address>10</Address>
+    <Value>90</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Speed regulator mode () = 2 is torque mode with speed limiting-->
+    <Address>11</Address>
+    <Value>2</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Reserved_Level2_12 () = 7863-->
+    <Address>12</Address>
+    <Value>7863</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Reserved_Level2_13 () = 59-->
+    <Address>13</Address>
+    <Value>59</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Phase A current gain (Amps/Volt) = 214.8125-->
+    <Address>14</Address>
+    <Value>13748</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Voltage gain (Volts/Volt) = 32.5-->
+    <Address>15</Address>
+    <Value>8320</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Phase C current gain (Amps/Volt) = -189.1875-->
+    <Address>16</Address>
+    <Value>-12108</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Analog Input Gain - 0-5V inputs (Volts/Volt) = 1.6807-->
+    <Address>17</Address>
+    <Value>1721</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Analog Input Gain - Internal Voltage Rail  (Volts/Volt) = 1.6807-->
+    <Address>18</Address>
+    <Value>1721</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Analog Input Gain - 0-10V inputs (Volts/Volt) = 3.4961-->
+    <Address>19</Address>
+    <Value>3580</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--DC voltage filter shift (bits) = 6-->
+    <Address>20</Address>
+    <Value>6</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Temperature filter shift (bits) = 12-->
+    <Address>21</Address>
+    <Value>12</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--DQ axis filter shift (bits) = 6-->
+    <Address>22</Address>
+    <Value>6</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Flux filter shift (bits) = 10-->
+    <Address>23</Address>
+    <Value>10</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Flux hpf shift (bits) = 8-->
+    <Address>24</Address>
+    <Value>8</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Flux frequency filter shift (bits) = 7-->
+    <Address>25</Address>
+    <Value>7</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Voltage feedback filter cutoff frequency (Hertz) = 1627-->
+    <Address>26</Address>
+    <Value>1627</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Averaged over current trip threshold (Amps) = 230-->
+    <Address>27</Address>
+    <Value>230</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Averaged over current trip sample length (samples) = 100-->
+    <Address>28</Address>
+    <Value>100</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Instantaneous over current trip threshold (Amps) = 241-->
+    <Address>29</Address>
+    <Value>241</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Phase Current RMS Filter Shift (counts) = 11-->
+    <Address>30</Address>
+    <Value>11</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Maximum interrupt execution time (pu) = 1-->
+    <Address>31</Address>
+    <Value>4096</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Command timeout threshold (ms) = 0-->
+    <Address>32</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--DC voltage trip clear hysterisis (% of rated system voltage) = 4.9805-->
+    <Address>33</Address>
+    <Value>204</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Controller over temperature trip threshold (deg C) = 100-->
+    <Address>34</Address>
+    <Value>100</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Controller foldback starting temperature (deg C) = 80-->
+    <Address>35</Address>
+    <Value>80</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Controller foldback ending temperature (deg C) = 100-->
+    <Address>36</Address>
+    <Value>100</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Controller temperature feedback V at 0 C (Volts) = 2.9954-->
+    <Address>37</Address>
+    <Value>12269</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Controller temperature feedback V at 25 C (Volts) = 2.5649-->
+    <Address>38</Address>
+    <Value>10506</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Controller temperature feedback V at 50 C (Volts) = 2.0752-->
+    <Address>39</Address>
+    <Value>8500</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Controller temperature feedback V at 75 C (Volts) = 1.4524-->
+    <Address>40</Address>
+    <Value>5949</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Controller temperature feedback V at 100 C (Volts) = 0.9871-->
+    <Address>41</Address>
+    <Value>4043</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Controller temperature feedback V at 125 C (Volts) = 0.6985-->
+    <Address>42</Address>
+    <Value>2861</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--SMT Datecode () = 0-->
+    <Address>43</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--SMT Serial Number () = 0-->
+    <Address>44</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Antitheft enable time (ms) = 0-->
+    <Address>45</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--reserved 46 () = 0-->
+    <Address>46</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Open circuit voltage test window  (V (norm)) = 0.25-->
+    <Address>47</Address>
+    <Value>1024</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--High/Lowside turn on voltage test window (V (norm)) = 0.0999-->
+    <Address>48</Address>
+    <Value>409</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Average Command timeout threshold (ms) = 0-->
+    <Address>49</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Remote comm loss current limit (pu) = 0-->
+    <Address>50</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Current Regulator bandwidth (radians) = 3000-->
+    <Address>51</Address>
+    <Value>3000</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--PLL bandwidth (radians) = 300-->
+    <Address>52</Address>
+    <Value>300</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--PLL damping () = 2-->
+    <Address>53</Address>
+    <Value>512</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Pll Kp  () = 1200-->
+    <Address>54</Address>
+    <Value>1200</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Pll Ki () = 89984-->
+    <Address>55</Address>
+    <Value>2812</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--CAN baud rate (kbps) = 250-->
+    <Address>56</Address>
+    <Value>250</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--CAN ID  () = 42-->
+    <Address>57</Address>
+    <Value>42</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Communications Configuration Vector () = 0000000011110000-->
+    <Address>58</Address>
+    <Value>240</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Battery resistance (milliohms) = 0-->
+    <Address>59</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Reserved_Level3_60 (Amps/Volt) = 0-->
+    <Address>60</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Reserved_Level3_61 (Amps/Volt) = 0-->
+    <Address>61</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Flash parameter read access code 1 () = 0000-->
+    <Address>62</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Hall stall fault time (msec) = 0-->
+    <Address>63</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Baud rate port2 (Baud) = 9600-->
+    <Address>64</Address>
+    <Value>96</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Slave ID port2 (Node #) = 2-->
+    <Address>65</Address>
+    <Value>2</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Display protocol () = disabled-->
+    <Address>66</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Saved Firmware revision () = 6.026-->
+    <Address>67</Address>
+    <Value>6026</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--reserved 68 () = 0-->
+    <Address>68</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Lm (uHenries) = 0-->
+    <Address>69</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Rated system voltage (Volts) = 50-->
+    <Address>70</Address>
+    <Value>50</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Rated motor current (Amps) = 200-->
+    <Address>71</Address>
+    <Value>200</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Rated motor speed (RPM) = 3786-->
+    <Address>72</Address>
+    <Value>3786</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Rated motor power (Race mode Throttle power) (Watts) = 2500-->
+    <Address>73</Address>
+    <Value>2500</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Ls (uHenries) = 210-->
+    <Address>74</Address>
+    <Value>210</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Rs (mOhms) = 29-->
+    <Address>75</Address>
+    <Value>29</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Display protocol2 () = disabled-->
+    <Address>76</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Motor position sensor type () = Hall Start/Sensorless Run-->
+    <Address>77</Address>
+    <Value>1</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--# of motor pole pairs () = 4-->
+    <Address>78</Address>
+    <Value>4</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Hall offset (degrees) = -2.384-->
+    <Address>79</Address>
+    <Value>-217</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Hall sector[0] () = -1-->
+    <Address>80</Address>
+    <Value>-1</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Hall sector[1] () = 1-->
+    <Address>81</Address>
+    <Value>1</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Hall sector[2] () = 5-->
+    <Address>82</Address>
+    <Value>5</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Hall sector[3] () = 0-->
+    <Address>83</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Hall sector[4] () = 3-->
+    <Address>84</Address>
+    <Value>3</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Hall sector[5] () = 2-->
+    <Address>85</Address>
+    <Value>2</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Hall sector[6] () = 4-->
+    <Address>86</Address>
+    <Value>4</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Hall sector[7] () = -1-->
+    <Address>87</Address>
+    <Value>-1</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Hall interpolation start frequency (Hertz) = 240-->
+    <Address>88</Address>
+    <Value>7680</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Hall interpolation stop frequency (Hertz) = 120-->
+    <Address>89</Address>
+    <Value>3840</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Motor over temperature trip threshold (deg C) = 125-->
+    <Address>90</Address>
+    <Value>125</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Motor foldback starting temperature (deg C) = 90-->
+    <Address>91</Address>
+    <Value>90</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Motor foldback ending temperature (deg C) = 110-->
+    <Address>92</Address>
+    <Value>110</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Motor temperature feedback V at 0 C (Volts) = 2.502-->
+    <Address>93</Address>
+    <Value>10248</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Motor temperature feedback V at 25 C (Volts) = 2.0088-->
+    <Address>94</Address>
+    <Value>8228</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Motor temperature feedback V at 50 C (Volts) = 1.3538-->
+    <Address>95</Address>
+    <Value>5545</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Motor temperature feedback V at 75 C (Volts) = 0.7837-->
+    <Address>96</Address>
+    <Value>3210</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Motor temperature feedback V at 100 C (Volts) = 0.4346-->
+    <Address>97</Address>
+    <Value>1780</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Motor temperature feedback V at 125 C (Volts) = 0.304-->
+    <Address>98</Address>
+    <Value>1245</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Overload continous current (% rated) = 110.0098-->
+    <Address>99</Address>
+    <Value>4506</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Overload heating current (% rated) = 119.9951-->
+    <Address>100</Address>
+    <Value>4915</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Overload heating time (s) = 180-->
+    <Address>101</Address>
+    <Value>180</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Overload cooling current (% rated) = 100-->
+    <Address>102</Address>
+    <Value>4096</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Overload cooling time (s) = 300-->
+    <Address>103</Address>
+    <Value>300</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Overload foldback start (%) = 100-->
+    <Address>104</Address>
+    <Value>4096</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Overload foldback end (%) = 125-->
+    <Address>105</Address>
+    <Value>5120</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Sensorless open loop starting current (pu A) = 0.5-->
+    <Address>106</Address>
+    <Value>2048</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Sensorless open loop injection current ramp time (ms) = 200-->
+    <Address>107</Address>
+    <Value>200</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Sensorless closed loop enable frequency (Hertz) = 20-->
+    <Address>108</Address>
+    <Value>20</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Sensorless open loop freq ramp time ms (ms) = 1500-->
+    <Address>109</Address>
+    <Value>1500</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Sensorless open loop dc current hold time (ms) = 15-->
+    <Address>110</Address>
+    <Value>15</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Battery upper range (Km) = 0-->
+    <Address>111</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Reserved_112 (
+      ) = English-km-->
+    <Address>112</Address>
+    <Value>3</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Reserved_113 (
+      ) = 20-->
+    <Address>113</Address>
+    <Value>20</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Single push assist source () = brake 2-->
+    <Address>114</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Single push assist boost timer (s) = 0-->
+    <Address>115</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Speed mode positive acceleration ramp (rpm/s in pu) = 1.5-->
+    <Address>116</Address>
+    <Value>24</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Throttle agressiveness speed threshold () = 0-->
+    <Address>117</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Speed mode Regen ramp (rpm/s in pu) = 1.5-->
+    <Address>118</Address>
+    <Value>24</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Hall transitions to start free wheel (
+      ) = 0-->
+    <Address>119</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Battery lower range (km) = 0-->
+    <Address>120</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Rated motor power (Street mode PAS power) (Watts) = 2500-->
+    <Address>121</Address>
+    <Value>2500</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Rated motor power (Race mode PAS power) (Watts) = 2500-->
+    <Address>122</Address>
+    <Value>2500</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Vehicle maximum speed (Street mode PAS max speed) (km/hr) = 24-->
+    <Address>123</Address>
+    <Value>6144</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Vehicle maximum speed (Race mode PAS max speed) (km/hr) = 24-->
+    <Address>124</Address>
+    <Value>6144</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Customer Parameter version () = 0-->
+    <Address>125</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Bluetooth Test Parameter () = 0-->
+    <Address>126</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Motor features () = 0000000000000000-->
+    <Address>127</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Hall Interpolation Transitions () = 8001-->
+    <Address>128</Address>
+    <Value>8001</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Maximum Field Weakening current (%) = 0-->
+    <Address>129</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--reserved_130 () = 0-->
+    <Address>130</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Rated motor power (Street mode Throttle power) (Watts) = 2500-->
+    <Address>131</Address>
+    <Value>2500</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Pedalec sensorless open loop starting current (pu A) = 0.25-->
+    <Address>132</Address>
+    <Value>1024</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Pedalec sensorless open loop freq ramp time ms (ms) = 300-->
+    <Address>133</Address>
+    <Value>300</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Pedalec sensorless closed loop enable frequency (Hertz) = 15-->
+    <Address>134</Address>
+    <Value>15</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--High battery state of charge foldback starting capacity (% SOC) = 110-->
+    <Address>135</Address>
+    <Value>110</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--High battery state of charge foldback end capacity (% SOC) = 125-->
+    <Address>136</Address>
+    <Value>125</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Motor temperature source () = Brake2-->
+    <Address>137</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Walk mode signal source () = Custom: -1-->
+    <Address>138</Address>
+    <Value>-1</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Alternate power switch source () = Custom: -1-->
+    <Address>139</Address>
+    <Value>-1</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Alternate speed limit switch source () = Custom: -1-->
+    <Address>140</Address>
+    <Value>-1</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Low battery foldback starting voltage (% of rated system voltage) = 75-->
+    <Address>141</Address>
+    <Value>3072</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Low battery foldback end voltage (% of rated system voltage) = 60.0098-->
+    <Address>142</Address>
+    <Value>2458</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Cold battery foldback starting temperature (deg C) = -100-->
+    <Address>143</Address>
+    <Value>-100</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Cold battery foldback ending temperature (deg C) = -120-->
+    <Address>144</Address>
+    <Value>-120</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Low battery state of charge foldback starting capacity (% SOC) = -5-->
+    <Address>145</Address>
+    <Value>-5</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Low battery state of charge foldback end capacity (% SOC) = -10-->
+    <Address>146</Address>
+    <Value>-10</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Fast over voltage threshold (% of rated system voltage) = 125-->
+    <Address>147</Address>
+    <Value>5120</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Fast under voltage threshold (% of rated system voltage) = 59.9854-->
+    <Address>148</Address>
+    <Value>2457</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Slow over voltage threshold (% of rated system voltage) = 125-->
+    <Address>149</Address>
+    <Value>5120</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Slow under voltage threshold (% of rated system voltage) = 75-->
+    <Address>150</Address>
+    <Value>3072</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Throttle deadband threshold (Volts) = 0.2-->
+    <Address>151</Address>
+    <Value>819</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Throttle fault range (Volts) = 0.2-->
+    <Address>152</Address>
+    <Value>819</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Reserved L1 1 () = 0-->
+    <Address>153</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Maximum braking torque (% of rated motor current) = 50-->
+    <Address>154</Address>
+    <Value>2048</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Battery current limit (% of rated battery current) = 100-->
+    <Address>155</Address>
+    <Value>4096</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Regeneration battery current limit (% of rated battery current) = 10.0098-->
+    <Address>156</Address>
+    <Value>410</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Power map Watts setpoint 1 (% of rated power) = 100-->
+    <Address>157</Address>
+    <Value>4096</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Power map Watts setpoint 2 (% of rated power) = 100-->
+    <Address>158</Address>
+    <Value>4096</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Power map Watts setpoint 3 (% of rated power) = 100-->
+    <Address>159</Address>
+    <Value>4096</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Power map Watts setpoint 4 (% of rated power) = 100-->
+    <Address>160</Address>
+    <Value>4096</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Power map Watts setpoint 5 (% of rated power) = 100-->
+    <Address>161</Address>
+    <Value>4096</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Power map Watts setpoint 6 (% of rated power) = 100-->
+    <Address>162</Address>
+    <Value>4096</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Power map Watts setpoint 7 (% of rated power) = 100-->
+    <Address>163</Address>
+    <Value>4096</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Power map Watts setpoint 8 (% of rated power) = 100-->
+    <Address>164</Address>
+    <Value>4096</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Power map speed setpoint 1 (% of speed limit) = 100-->
+    <Address>165</Address>
+    <Value>4096</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Power map speed setpoint 2 (% of speed limit) = 100-->
+    <Address>166</Address>
+    <Value>4096</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Power map speed setpoint 3 (% of speed limit) = 100-->
+    <Address>167</Address>
+    <Value>4096</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Power map speed setpoint 4 (% of speed limit) = 100-->
+    <Address>168</Address>
+    <Value>4096</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Power map speed setpoint 5 (% of speed limit) = 100-->
+    <Address>169</Address>
+    <Value>4096</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Power map speed setpoint 6 (% of speed limit) = 100-->
+    <Address>170</Address>
+    <Value>4096</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Power map speed setpoint 7 (% of speed limit) = 100-->
+    <Address>171</Address>
+    <Value>4096</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Power map speed setpoint 8 (% of speed limit) = 100-->
+    <Address>172</Address>
+    <Value>4096</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Minimum motoring torque (pu A) = 0-->
+    <Address>173</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Features2 () = 0000000011000000-->
+    <Address>174</Address>
+    <Value>192</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Pedal speed map offset (pu) = 0.3999-->
+    <Address>175</Address>
+    <Value>1638</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Pedal speed map end (RPM) = 64-->
+    <Address>176</Address>
+    <Value>4096</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Engine braking torque (%) = 0-->
+    <Address>177</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Pedalec torque symmetry () = One Cycle(default)-->
+    <Address>178</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Pedalec power gain (G) = 2-->
+    <Address>179</Address>
+    <Value>2048</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Pedalec initial torque (Nm) = 0-->
+    <Address>180</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Pedalec deadband torque (Nm) = 10-->
+    <Address>181</Address>
+    <Value>640</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Torque sensor offset (Volts) = 0-->
+    <Address>182</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Torque sensor gain (Nm/Volt) = 0-->
+    <Address>183</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Datalog channel 1 select () = 0-->
+    <Address>184</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Datalog channel 2 select () = 0-->
+    <Address>185</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Datalog channel 3 select () = 0-->
+    <Address>186</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Datalog channel 4 select () = 0-->
+    <Address>187</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Datalog trigger level () = 0-->
+    <Address>188</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Datalog trigger mask () = 0000-->
+    <Address>189</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Datalog hold off () = 0-->
+    <Address>190</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Datalog timebase () = 0-->
+    <Address>191</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Datalog trigger mode () = 0-->
+    <Address>192</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Wheel speed sensor source () = Custom: -1-->
+    <Address>193</Address>
+    <Value>-1</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--High battery foldback starting voltage (% of rated system voltage) = 114.9902-->
+    <Address>194</Address>
+    <Value>4710</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--High battery foldback end voltage (% of rated system voltage) = 125-->
+    <Address>195</Address>
+    <Value>5120</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Low battery state of charge alarm threshold (%) = 0-->
+    <Address>196</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Voltage model battery state of charge gain (%) = 0-->
+    <Address>197</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Voltage model battery state of charge offset (%) = 0-->
+    <Address>198</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Axle torque sensor 1 (pu) = 0-->
+    <Address>199</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Axle torque sensor 2 (pu) = 0-->
+    <Address>200</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Axle torque sensor  3 (pu) = 0-->
+    <Address>201</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Rolling start speed 1 (km/hr) = 0-->
+    <Address>202</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Rolling start speed 2 (km/hr) = 0-->
+    <Address>203</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Rolling start speed 3 (km/hr) = 0-->
+    <Address>204</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Rolling start speed  (km/hr) = 0-->
+    <Address>205</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Regen brake speed (km/hr) = 0-->
+    <Address>206</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Reserved_207 (hex) = 0000-->
+    <Address>207</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Control command source () = Remote-->
+    <Address>208</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Battery management interface type () = None-->
+    <Address>209</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Assist mode source () = None-->
+    <Address>210</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Pedal sensor type () = Custom: -1-->
+    <Address>211</Address>
+    <Value>-1</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Features () = 0000000000110000-->
+    <Address>212</Address>
+    <Value>48</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Throttle full voltage (Volts) = 4.1968-->
+    <Address>213</Address>
+    <Value>17190</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Throttle off voltage (Volts) = 0.8936-->
+    <Address>214</Address>
+    <Value>3660</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Analogue brake full voltage (Volts) = 4-->
+    <Address>215</Address>
+    <Value>16384</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Analogue brake off voltage (Volts) = 1-->
+    <Address>216</Address>
+    <Value>4096</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Assist high voltage reading (Volts) = 0-->
+    <Address>217</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Assist low voltage reading (Volts) = 0-->
+    <Address>218</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Assist gain 1 (pu) = 0.5-->
+    <Address>219</Address>
+    <Value>2048</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Positive motoring torque ramp (ms) = 200-->
+    <Address>220</Address>
+    <Value>200</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Negative motoring torque ramp (ms) = 100-->
+    <Address>221</Address>
+    <Value>100</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Pedalec positive motoring torque ramp (ms) = 200-->
+    <Address>222</Address>
+    <Value>200</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Pedalec negative motoring torque ramp (ms) = 100-->
+    <Address>223</Address>
+    <Value>100</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Positive braking torque ramp (ms) = 100-->
+    <Address>224</Address>
+    <Value>100</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Negative braking torque ramp (ms) = 50-->
+    <Address>225</Address>
+    <Value>50</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Gear ratio (N:1) = 5-->
+    <Address>226</Address>
+    <Value>1280</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Wheel diameter (mm) = 660-->
+    <Address>227</Address>
+    <Value>660</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Assist cut out distance (m) = 1-->
+    <Address>228</Address>
+    <Value>256</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Vehicle maximum speed (Race mode Throttle max speed) (km/hr) = 24-->
+    <Address>229</Address>
+    <Value>6144</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Vehicle jog speed (km/hr) = 3-->
+    <Address>230</Address>
+    <Value>768</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Wheel speed sensor pulses per revolution (ppr) = 0-->
+    <Address>231</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Pedalec minimum timeout (ms) = 100-->
+    <Address>232</Address>
+    <Value>100</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Pedalec maximum timeout (ms) = 500-->
+    <Address>233</Address>
+    <Value>500</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Pedal speed sensor pulses per revolution (ppr) = 0-->
+    <Address>234</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Pedal sense delay (counts) = 2-->
+    <Address>235</Address>
+    <Value>2</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Vehicle maximum speed (Street mode Throttle max speed) (km/hr) = 24-->
+    <Address>236</Address>
+    <Value>6144</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--MFG_FlowCheck () = 0-->
+    <Address>237</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--MFG Barcode Type () = 0-->
+    <Address>238</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--ADC Saturation Control () = 0000000000000000-->
+    <Address>239</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Reserved Level 1 Param 240 () = 0-->
+    <Address>240</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Assist speed 1 (pu) = 0.5-->
+    <Address>241</Address>
+    <Value>2048</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Torque sensor voltage source () = Throttle Voltage-->
+    <Address>242</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--voltage threshold for shared digital input + motor temperature source (Volts) = 0-->
+    <Address>243</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Digital throttle sensor source () = Cruise-->
+    <Address>244</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Assist gain 2 (pu) = 0.75-->
+    <Address>245</Address>
+    <Value>3072</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Assist speed 2 (pu) = 0.75-->
+    <Address>246</Address>
+    <Value>3072</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Throttle sensor source () = Throttle-->
+    <Address>247</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Cutoff brake sensor source () = Brake 1-->
+    <Address>248</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Regen brake source () = Remote-->
+    <Address>249</Address>
+    <Value>2</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Assist Gain 3 (pu) = 1-->
+    <Address>250</Address>
+    <Value>4096</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Assist Speed 3 (pu) = 1-->
+    <Address>251</Address>
+    <Value>4096</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Vehicle jog speed2 (km/hr) = 0-->
+    <Address>252</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Assist Gain Walk () = 0-->
+    <Address>253</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Speed limit ramp time (ms) = 100-->
+    <Address>254</Address>
+    <Value>100</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--CAN sync loss timeout (ms) = 0-->
+    <Address>255</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--firmware revision level () = 6.026-->
+    <Address>256</Address>
+    <Value>6026</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--controller status () = 1=Idle-->
+    <Address>257</Address>
+    <Value>1</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--faults () = 0000000000000000-->
+    <Address>258</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--controller temperature (deg C) = 24-->
+    <Address>259</Address>
+    <Value>24</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--vehicle speed (km/hr) = 0-->
+    <Address>260</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--motor temperature (deg C) = 26-->
+    <Address>261</Address>
+    <Value>26</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--motor current (Amps) = 0.0938-->
+    <Address>262</Address>
+    <Value>3</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--motor rpm (RPM) = 0-->
+    <Address>263</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--motor speed (% of rated rpm) = 0-->
+    <Address>264</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--battery voltage (Volts) = 52.9375-->
+    <Address>265</Address>
+    <Value>1694</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--battery current (Amps) = 0-->
+    <Address>266</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--battery state of charge (%) = 100-->
+    <Address>267</Address>
+    <Value>100</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--battery power (Watts) = 0-->
+    <Address>268</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--last fault () = 0000000000000000-->
+    <Address>269</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--throttle voltage (Volts) = 0.0474-->
+    <Address>270</Address>
+    <Value>194</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--brake 1 voltage (Volts) = 4.7114-->
+    <Address>271</Address>
+    <Value>19298</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--brake 2 voltage (Volts) = 3.3142-->
+    <Address>272</Address>
+    <Value>13575</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--raw controller temperature sensor voltage (Volts) = 2.5642-->
+    <Address>273</Address>
+    <Value>10503</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--light sensor voltage (Volts) = 0.0225-->
+    <Address>274</Address>
+    <Value>92</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--abms voltage (Volts) = 0.1006-->
+    <Address>275</Address>
+    <Value>103</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--digital inputs () = 0000000000000001-->
+    <Address>276</Address>
+    <Value>1</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--warnings () = 0000000000000000-->
+    <Address>277</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--rotor angle (degrees) = 59.9963-->
+    <Address>278</Address>
+    <Value>10922</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--battery temperature (deg C) = 21-->
+    <Address>279</Address>
+    <Value>21</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--battery power percent (% of rated power) = 0-->
+    <Address>280</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--dsp core temperature (deg C) = 33-->
+    <Address>281</Address>
+    <Value>33</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--phase A current (Amps) = 0-->
+    <Address>282</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--phase B current (Amps) = 0.1875-->
+    <Address>283</Address>
+    <Value>6</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--phase C current (Amps) = -0.2188-->
+    <Address>284</Address>
+    <Value>-7</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--phase A voltage (Volts) = 27-->
+    <Address>285</Address>
+    <Value>864</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--phase B voltage (Volts) = 27.0312-->
+    <Address>286</Address>
+    <Value>865</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--phase C voltage (Volts) = 27-->
+    <Address>287</Address>
+    <Value>864</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--bootloader revision () = 1.325-->
+    <Address>288</Address>
+    <Value>1325</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--internal rail voltage (V) = 13.4404-->
+    <Address>289</Address>
+    <Value>13763</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--high state of charge foldback gain () = 1-->
+    <Address>290</Address>
+    <Value>4096</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--raw battery voltage (pu V) = 1.0593-->
+    <Address>291</Address>
+    <Value>4339</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--phase A voltage per unit (pu V) = 0.541-->
+    <Address>292</Address>
+    <Value>2216</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--phase B voltage per unit (pu V) = 0.5405-->
+    <Address>293</Address>
+    <Value>2214</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--phase C voltage per unit (pu V) = 0.54-->
+    <Address>294</Address>
+    <Value>2212</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--digital outputs () = 0101000000111000-->
+    <Address>295</Address>
+    <Value>20536</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--ia_pu () = 0-->
+    <Address>296</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--ic_pu () = -0.001-->
+    <Address>297</Address>
+    <Value>-4</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--overload accumulator (%) = 0-->
+    <Address>298</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--faults2 () = 0000000000000000-->
+    <Address>299</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--motor phase U high voltage POST (V (norm)) = 0-->
+    <Address>300</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--motor phase U low voltage POST (V (norm)) = 0-->
+    <Address>301</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--motor phase V high voltage POST (V (norm)) = 0-->
+    <Address>302</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--motor phase V low voltage POST (V (norm)) = 0-->
+    <Address>303</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--motor phase W high voltage POST (V (norm)) = 0-->
+    <Address>304</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--motor phase W low voltage POST (V (norm)) = 0-->
+    <Address>305</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--motor phase U open circuit voltage POST (V (norm)) = 0-->
+    <Address>306</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--motor phase V open circuit voltage POST (V (norm)) = 0-->
+    <Address>307</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--motor phase W open circuit voltage POST (V (norm)) = 0-->
+    <Address>308</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--phase regen current power limit (pu) = 1-->
+    <Address>309</Address>
+    <Value>4096</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--high voltage foldback gain (pu) = 1-->
+    <Address>310</Address>
+    <Value>4096</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--wheel RPM (speed sensor based) (RPM) = 0-->
+    <Address>311</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--wheel RPM (motor based) (RPM) = 0-->
+    <Address>312</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--measured wheel RPM (RPM) = 0-->
+    <Address>313</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--local power limit command (pu ) = 1-->
+    <Address>314</Address>
+    <Value>4096</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--phase A current sensor offset (% of full scale) = 0.5044-->
+    <Address>315</Address>
+    <Value>2066</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--phase C current sensor offset (% of full scale) = 0.5037-->
+    <Address>316</Address>
+    <Value>2063</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--low voltage foldback gain (pu) = 1-->
+    <Address>317</Address>
+    <Value>4096</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--phase motoring current power limit (pu) = 1-->
+    <Address>318</Address>
+    <Value>4096</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--motor i^2t foldback gain (pu) = 1-->
+    <Address>319</Address>
+    <Value>4096</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--motor temperature foldback gain (pu) = 1-->
+    <Address>320</Address>
+    <Value>4096</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--controller temperature foldback gain (pu) = 1-->
+    <Address>321</Address>
+    <Value>4096</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--BMS Reported Cycles () = 0-->
+    <Address>322</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--motoring phase current limit (pu) = 0-->
+    <Address>323</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--low state of charge foldback gain (pu) = 1-->
+    <Address>324</Address>
+    <Value>4096</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--throttle setpoint (pu) = 0-->
+    <Address>325</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--brake setpoint (pu) = 0-->
+    <Address>326</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--controller flags () = 0000000000000000-->
+    <Address>327</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--instantaneous pedal speed (RPM) = 0-->
+    <Address>328</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--assist speed limit (pu) = 1-->
+    <Address>329</Address>
+    <Value>4096</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--sensorless state () = 0=Sensorless Idle-->
+    <Address>330</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--average pedal speed (RPM) = 0-->
+    <Address>331</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--average pedal torque (Nm) = 0-->
+    <Address>332</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--regen phase current limit (pu) = 0-->
+    <Address>333</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--motor input power (W) = 0-->
+    <Address>334</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--requested torque command (pu) = 0-->
+    <Address>335</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--torque reference (pu) = 0-->
+    <Address>336</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--speed(ref/limit) command (pu) = 0-->
+    <Address>337</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--pedal speed gain (pu) = 0-->
+    <Address>338</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--assist level (pu) = 1-->
+    <Address>339</Address>
+    <Value>4096</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--port1 modbus CRC error count (counts) = 0-->
+    <Address>340</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--port1 HW errors (counts) = 0-->
+    <Address>341</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--port2 modbus CRC error count (counts) = 0-->
+    <Address>342</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--port2 HW errors (counts) = 0-->
+    <Address>343</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--reserved L4 4 (counts) = 0-->
+    <Address>344</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--vd (pu) = 0.0005-->
+    <Address>345</Address>
+    <Value>2</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--vq (pu) = -0.0002-->
+    <Address>346</Address>
+    <Value>-1</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--d feedback avg (pu) = 0.0002-->
+    <Address>347</Address>
+    <Value>1</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--q feedback avg (pu) = 0.0005-->
+    <Address>348</Address>
+    <Value>2</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--axle torque sensor offset voltage (V) = 0.0474-->
+    <Address>349</Address>
+    <Value>194</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--current ISR execution time (us) = 58.6833-->
+    <Address>350</Address>
+    <Value>3521</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--peak ISR execution time (us) = 62.0167-->
+    <Address>351</Address>
+    <Value>3721</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--peak 1ms loop time (us) = 1701.4-->
+    <Address>352</Address>
+    <Value>25521</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--average 1ms time (us) = 999.7333-->
+    <Address>353</Address>
+    <Value>14996</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--1ms time (us) = 998.5333-->
+    <Address>354</Address>
+    <Value>14978</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--execution time 4 (us) = 4.6833-->
+    <Address>355</Address>
+    <Value>281</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--autotune encoder offset (degrees) = 0-->
+    <Address>356</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--autotune offset error (degrees) = 0-->
+    <Address>357</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--execution time 7 (us) = 0-->
+    <Address>358</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--warnings2 () = 0000000000000000-->
+    <Address>359</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--remote maximum battery current limit (Amps) = 0-->
+    <Address>360</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--remote maximum regen battery current limit (Amps) = 0-->
+    <Address>361</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--autotune # pole pairs () = 0-->
+    <Address>362</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--faults3 () = 0000000000000000-->
+    <Address>363</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--last faults3 () = 0000000000000000-->
+    <Address>364</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--custom code execution time (us) = 0-->
+    <Address>365</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--v integral (pu) = 0-->
+    <Address>366</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--v output (pu) = 0-->
+    <Address>367</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--v error (pu) = 0-->
+    <Address>368</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--v proportional (pu) = 0-->
+    <Address>369</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--d integral (pu) = 0-->
+    <Address>370</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--q integral (pu) = 0-->
+    <Address>371</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--d output (pu) = -0.0063-->
+    <Address>372</Address>
+    <Value>-26</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--q output (pu) = -0.0044-->
+    <Address>373</Address>
+    <Value>-18</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--d error (pu) = -0.0015-->
+    <Address>374</Address>
+    <Value>-6</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--q error (pu) = -0.001-->
+    <Address>375</Address>
+    <Value>-4</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--d proportional (pu) = -0.0078-->
+    <Address>376</Address>
+    <Value>-2</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--q proportional (pu) = -0.0078-->
+    <Address>377</Address>
+    <Value>-2</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--q limit from d (pu) = 1.1545-->
+    <Address>378</Address>
+    <Value>4729</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--battery i^2t foldback gain (pu) = 1-->
+    <Address>379</Address>
+    <Value>4096</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--d feedback (pu) = 0.0015-->
+    <Address>380</Address>
+    <Value>6</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--q feedback (pu) = 0.0005-->
+    <Address>381</Address>
+    <Value>2</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--d reference (pu) = 0-->
+    <Address>382</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--q reference (pu) = 0-->
+    <Address>383</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--maximum measurable current (A) = 312-->
+    <Address>384</Address>
+    <Value>312</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--maximum measurable voltage (V) = 107-->
+    <Address>385</Address>
+    <Value>107</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--positive battery limit (pu) = 1-->
+    <Address>386</Address>
+    <Value>4096</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--negative battery limit (pu) = 1-->
+    <Address>387</Address>
+    <Value>4096</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--stator current alpha (pu) = 0.0005-->
+    <Address>388</Address>
+    <Value>2</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--stator current beta (pu) = 0-->
+    <Address>389</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--flux alpha (pu) = -0.0017-->
+    <Address>390</Address>
+    <Value>-7</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--flux beta (pu) = 0.0012-->
+    <Address>391</Address>
+    <Value>5</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--flux frequency (Hertz) = 0-->
+    <Address>392</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--flux magnitude (pu) = 0.0015-->
+    <Address>393</Address>
+    <Value>6</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--flux angle (pu) = 0.1074-->
+    <Address>394</Address>
+    <Value>7037</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--open loop angle (deg) = 0-->
+    <Address>395</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--calculated battery current motoring limit (A) = 49.875-->
+    <Address>396</Address>
+    <Value>399</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--calculated battery current braking limit (A) = 4.875-->
+    <Address>397</Address>
+    <Value>39</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--motor temperature sensor voltage (V) = 1.9717-->
+    <Address>398</Address>
+    <Value>8076</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--pu Lm (pu) = 0-->
+    <Address>399</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--debug1 () = 0-->
+    <Address>400</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--debug2 () = 0-->
+    <Address>401</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--reserved_402 () = 0-->
+    <Address>402</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Reserved_403 () = 0000000000000000-->
+    <Address>403</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--encoder angle (pu) = 0-->
+    <Address>404</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--ib rms (Arms) = 0.0938-->
+    <Address>405</Address>
+    <Value>3</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--reserved_406 (
+      ) = 0-->
+    <Address>406</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--wheel pulse counter () = 0-->
+    <Address>407</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--trip meter (km) = 0-->
+    <Address>408</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--pedalec timeout delay () = 500-->
+    <Address>409</Address>
+    <Value>500</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--pll angle (pu) = 0.1667-->
+    <Address>410</Address>
+    <Value>10922</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--pll error (pu) = 0-->
+    <Address>411</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--pll PI frequency (Hertz) = 0-->
+    <Address>412</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--pll proportional (Hertz) = 0-->
+    <Address>413</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--pll integral (Hertz) = 0-->
+    <Address>414</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--rotor frequency (Hertz) = 0-->
+    <Address>415</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--pll reference angle (pu) = 0.1667-->
+    <Address>416</Address>
+    <Value>10922</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--hall angle (pu) = 0.1667-->
+    <Address>417</Address>
+    <Value>10922</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--last fault2 () = 0000000000000000-->
+    <Address>418</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--hall frequency (Hertz) = 0-->
+    <Address>419</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--q limit () = 1.1523-->
+    <Address>420</Address>
+    <Value>295</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--d limit () = 1.1523-->
+    <Address>421</Address>
+    <Value>295</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--id ref trim () = 0-->
+    <Address>422</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--id ref fdfwd () = 0-->
+    <Address>423</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--autotune Lm (uHenries) = 0-->
+    <Address>424</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--autotune Rs (mOhms) = 0-->
+    <Address>425</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--autotune Ls (uHenries) = 0-->
+    <Address>426</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--pu Rs (pu mohm) = 0.2012-->
+    <Address>427</Address>
+    <Value>824</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--pu Ls (pu uHenries) = 2.3333-->
+    <Address>428</Address>
+    <Value>9557</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--rated electrical frequency (Hz) = 252.375-->
+    <Address>429</Address>
+    <Value>2019</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--digital inputs 2 () = 0000000000000000-->
+    <Address>430</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--combined motor foldback (pu) = 1-->
+    <Address>431</Address>
+    <Value>4096</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--flash parameter cycle counter () = 254-->
+    <Address>432</Address>
+    <Value>254</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--ia_rms (Arms) = 0.7188-->
+    <Address>433</Address>
+    <Value>23</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--ic_rms (Arms) = 0.5625-->
+    <Address>434</Address>
+    <Value>18</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--iq_trim_q12 (pu) = 0-->
+    <Address>435</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--modulation index (
+      ) = 0-->
+    <Address>436</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--pwm cmd a pwm () = 1508-->
+    <Address>437</Address>
+    <Value>1508</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--pwm cmd b pwm () = 1493-->
+    <Address>438</Address>
+    <Value>1493</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--pwm cmd c pwm () = 1498-->
+    <Address>439</Address>
+    <Value>1498</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--autotune hall sector[0] () = 0-->
+    <Address>440</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--autotune hall sector[1] () = 0-->
+    <Address>441</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--autotune hall sector[2] () = 0-->
+    <Address>442</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--autotune hall sector[3] () = 0-->
+    <Address>443</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--autotune hall sector[4] () = 0-->
+    <Address>444</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--autotune hall sector[5] () = 0-->
+    <Address>445</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--autotune hall sector[6] () = 0-->
+    <Address>446</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--autotune hall sector[7] () = 0-->
+    <Address>447</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--parameter CRC32 high word () = F4D6-->
+    <Address>448</Address>
+    <Value>-2858</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--parameter CRC32 low word () = 2995-->
+    <Address>449</Address>
+    <Value>10645</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--user access level () = 0-->
+    <Address>450</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--bootloader CRC32 high word () = 99BE-->
+    <Address>451</Address>
+    <Value>-26178</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--bootloader CRC32 low word () = 0000-->
+    <Address>452</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--firmware CRC32 high word () = 9749-->
+    <Address>453</Address>
+    <Value>-26807</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--firmware CRC32 low word () = 224A-->
+    <Address>454</Address>
+    <Value>8778</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--silicon revision () = 1-->
+    <Address>455</Address>
+    <Value>1</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--motoring limit pre-foldback () = 0-->
+    <Address>456</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--regen limit pre-foldback (pu) = 0-->
+    <Address>457</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--peak background period (us) = 1192.4667-->
+    <Address>458</Address>
+    <Value>17887</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--avg background period (us) = 26.8-->
+    <Address>459</Address>
+    <Value>402</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--autotune hall offset angle (degrees) = 0-->
+    <Address>460</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--depricated autotune Kv always 1 (pu) = 0-->
+    <Address>461</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--autotune rated rpm (RPM) = 0-->
+    <Address>462</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--axle torque sensor assist (pu) = 0-->
+    <Address>463</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--rolling start speed assist mode (km/hr) = 0-->
+    <Address>464</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--otp serial number0 () = 0051-->
+    <Address>465</Address>
+    <Value>81</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--otp serial number1 () = 08CB-->
+    <Address>466</Address>
+    <Value>2251</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--otp serial number2 () = 0000-->
+    <Address>467</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--otp serial number3 () = 0000-->
+    <Address>468</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--otp serial number4 () = 3794-->
+    <Address>469</Address>
+    <Value>14228</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--otp serial number5 () = 0000-->
+    <Address>470</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--otp serial number6 () = 08B1-->
+    <Address>471</Address>
+    <Value>2225</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--otp serial number7 () = 0347-->
+    <Address>472</Address>
+    <Value>839</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--commanded speed (% of rated rpm) = 0-->
+    <Address>473</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--commanded maximum motoring current (% of rated motor current) = 0-->
+    <Address>474</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--commanded maximum braking current (% of rated motor current) = 0-->
+    <Address>475</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--commanded state () = 0=OFF-->
+    <Address>476</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--commanded torque (%) = 0-->
+    <Address>477</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--reserved_478 (%) = 0-->
+    <Address>478</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--reserved_479 (%) = 0-->
+    <Address>479</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Test mode () = 0 is closed loop current mode (standard operating mode)-->
+    <Address>480</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Motor discover mode () = 0 is off-->
+    <Address>481</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Open loop modulation (pu) = 0-->
+    <Address>482</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Open loop current (Amps) = 0-->
+    <Address>483</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Open loop frequency (Hertz) = 0-->
+    <Address>484</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Open loop angle (degrees) = 0-->
+    <Address>485</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--debug_cmd1 () = 0-->
+    <Address>486</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--debug_cmd2 () = 0-->
+    <Address>487</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--controller flags2 () = 0000000000010000-->
+    <Address>488</Address>
+    <Value>16</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--do_not_use_4 () = 0-->
+    <Address>489</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Remote speed command (% of rated rpm) = 0-->
+    <Address>490</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Remote maximum motoring current (%) = 0-->
+    <Address>491</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Remote maximum braking current (%) = 0-->
+    <Address>492</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Remote state command () = 0=OFF-->
+    <Address>493</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Remote torque command (%) = 0-->
+    <Address>494</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Remote Throttle Voltage (Volts) = 0-->
+    <Address>495</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Remote Digital Commands () = 0000000000010000-->
+    <Address>496</Address>
+    <Value>16</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Remote Analog brake voltage (V) = 0-->
+    <Address>497</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Parameter read access code 1 () = 0000-->
+    <Address>498</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Bidirectional torque command () = 0-->
+    <Address>499</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Display speed limit command (pu) = 0-->
+    <Address>500</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Display assist level command (pu) = 0-->
+    <Address>501</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Display walk command () = 0-->
+    <Address>502</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Remote battery SOC () = 0-->
+    <Address>503</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Remote battery temperature (C) = 0-->
+    <Address>504</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--reserved_505 (V) = 0-->
+    <Address>505</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Remote assist mode () = 0-->
+    <Address>506</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Arm datalogger () = 0-->
+    <Address>507</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Fault clear () = 0-->
+    <Address>508</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Parameter access code 1 () = 0000-->
+    <Address>509</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Load firmware to flash () = 0000-->
+    <Address>510</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Write parameters to flash () = 0000-->
+    <Address>511</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--reserved_ptable1 () = 0-->
+    <Address>1536</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--reserved_ptable2 () = 0-->
+    <Address>1537</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--reserved_ptable3 () = 0-->
+    <Address>1538</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--reserved_ptable4 () = 0-->
+    <Address>1539</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--reserved_ptable5 () = 0-->
+    <Address>1540</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--reserved_ptable6 () = 0-->
+    <Address>1541</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--reserved_ptable7 () = 0-->
+    <Address>1542</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--reserved_ptable8 () = 0-->
+    <Address>1543</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--reserved_ptable9 () = 0-->
+    <Address>1544</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--reserved_ptable10 () = 0-->
+    <Address>1545</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--reserved_1664 (hex) = 0000-->
+    <Address>1664</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--reserved_1665 (hex) = 0000-->
+    <Address>1665</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--reserved_1666 (hex) = 0000-->
+    <Address>1666</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--reserved_1667 (hex) = 0000-->
+    <Address>1667</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--reserved_1668 (hex) = 0000-->
+    <Address>1668</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--reserved_1669 (hex) = 0000-->
+    <Address>1669</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--reserved_1670 (hex) = 0000-->
+    <Address>1670</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--reserved_1671 (hex) = 0000-->
+    <Address>1671</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--reserved_1672 (hex) = 0000-->
+    <Address>1672</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--reserved_1673 (hex) = 0000-->
+    <Address>1673</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--live speed kp () = 0-->
+    <Address>1674</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--live speed ki () = 0.3516-->
+    <Address>1675</Address>
+    <Value>1440</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--can auto ID () = 0-->
+    <Address>1676</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Remote Speed Command in RPM () = 0-->
+    <Address>1677</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--vehicle maximum speed from display () = 0-->
+    <Address>1678</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--test build () = 0-->
+    <Address>1679</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Remote Maximum Braking Torque (% of rated motor current) = 0-->
+    <Address>1680</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Remote Motoring Foldback (pu) = 0-->
+    <Address>1681</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Remote Regen Foldback (pu) = 0-->
+    <Address>1682</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Motor Discovery Speed (pu) = 0-->
+    <Address>1683</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--accelerometer X angle () = 0-->
+    <Address>1684</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--accelerometer incline angle () = 0-->
+    <Address>1685</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--accelerometer Z angle () = 0-->
+    <Address>1686</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--runtime max switching frequency () = 16000-->
+    <Address>1687</Address>
+    <Value>16000</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--accelerometer Y angle () = 0-->
+    <Address>1688</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--flash sector tracker () = 0111-->
+    <Address>1689</Address>
+    <Value>273</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--odometer low (km) = 0-->
+    <Address>1690</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--odometer high (km) = 0-->
+    <Address>1691</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--motor on time low (Hours) = 0-->
+    <Address>1692</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--motor on time high (Hours) = 0-->
+    <Address>1693</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--boot counter () = 0-->
+    <Address>1694</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Dynamic Flash Packet Count () = 0-->
+    <Address>1695</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--faults_log () = 0000000000000000-->
+    <Address>1696</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--faults2_log () = 0000000000000000-->
+    <Address>1697</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Dynamic Flash Variable 9 () = 0-->
+    <Address>1698</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Dynamic Flash Variable 10 () = 0-->
+    <Address>1699</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--dsp core temperature (high resolution) (deg C) = 33.75-->
+    <Address>1700</Address>
+    <Value>540</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--battery temperature fractional value (deg C) = 0-->
+    <Address>1701</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--motor temperature (high resolution) (deg C) = 26.4375-->
+    <Address>1702</Address>
+    <Value>423</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--controller temperature (high resolution) (deg C) = 24.9375-->
+    <Address>1703</Address>
+    <Value>399</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Remote Power Limit (%) = 100-->
+    <Address>1704</Address>
+    <Value>4096</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--sector H flash status () = 0111-->
+    <Address>1705</Address>
+    <Value>273</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--sector G flash status () = 0111-->
+    <Address>1706</Address>
+    <Value>273</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Parameter read access code 2 () = 0000-->
+    <Address>1707</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Parameter read access code 3 () = 0000-->
+    <Address>1708</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Parameter access code 2 () = 0000-->
+    <Address>1709</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Parameter access code 3 () = 0000-->
+    <Address>1710</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--i2c address () = 0000-->
+    <Address>1711</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--i2c transmit request () = 0000-->
+    <Address>1712</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--i2c data () = 0000-->
+    <Address>1713</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--can message overflow count () = 0-->
+    <Address>1714</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--FET low on time () = 0-->
+    <Address>1715</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--vars2_1716 () = 0-->
+    <Address>1716</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--vars2_1717 () = 0-->
+    <Address>1717</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--secondary throttle setpoint (pu) = 0-->
+    <Address>1718</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--build variant () = 1-->
+    <Address>1719</Address>
+    <Value>1</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--reverse throttle gain (v to pu) = 0-->
+    <Address>1720</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--reverse throttle zero point (V) = 0-->
+    <Address>1721</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Power Consumed (WHr) = 0-->
+    <Address>1722</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Power Consumed (Remainder) (WHr) = 0-->
+    <Address>1723</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--ADC Saturation Event Source () = 0000000000000000-->
+    <Address>1725</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--vehicle speed (high speed vehicle) (km/hr) = 0-->
+    <Address>1726</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--mappable CAN Param 01 (hex) = 0000-->
+    <Address>1728</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--mappable CAN Param 02 (hex) = 0000-->
+    <Address>1729</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--mappable CAN Param 03 (hex) = 0000-->
+    <Address>1730</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--mappable CAN Param 04 (hex) = 0000-->
+    <Address>1731</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--mappable CAN Param 05 (hex) = 0000-->
+    <Address>1732</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--mappable CAN Param 06 (hex) = 0000-->
+    <Address>1733</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--mappable CAN Param 07 (hex) = 0000-->
+    <Address>1734</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--mappable CAN Param 08 (hex) = 0000-->
+    <Address>1735</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--mappable CAN Param 09 (hex) = 0000-->
+    <Address>1736</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--mappable CAN Param 10 (hex) = 0000-->
+    <Address>1737</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--mappable CAN Param 11 (hex) = 0000-->
+    <Address>1738</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--mappable CAN Param 12 (hex) = 0000-->
+    <Address>1739</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--mappable CAN Param 13 (hex) = 0000-->
+    <Address>1740</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--mappable CAN Param 14 (hex) = 0000-->
+    <Address>1741</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--mappable CAN Param 15 (hex) = 0000-->
+    <Address>1742</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--mappable CAN Param 16 (hex) = 0000-->
+    <Address>1743</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--mappable CAN Param 17 (hex) = 0000-->
+    <Address>1744</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--mappable CAN Param 18 (hex) = 0000-->
+    <Address>1745</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--mappable CAN Param 19 (hex) = 0000-->
+    <Address>1746</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--mappable CAN Param 20 (hex) = 0000-->
+    <Address>1747</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--level 0 Parameter CRC- high word (hex) = CD17-->
+    <Address>1784</Address>
+    <Value>-13033</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--level 0 Parameter CRC- low word (hex) = FB0C-->
+    <Address>1785</Address>
+    <Value>-1268</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--level 1 Parameter CRC- high word (hex) = 9AF8-->
+    <Address>1786</Address>
+    <Value>-25864</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--level 1 Parameter CRC- low word (hex) = AD16-->
+    <Address>1787</Address>
+    <Value>-21226</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--level 2 Parameter CRC- high word (hex) = BD63-->
+    <Address>1788</Address>
+    <Value>-17053</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--level 2 Parameter CRC- low word (hex) = 1845-->
+    <Address>1789</Address>
+    <Value>6213</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--level 3 Parameter CRC- high word (hex) = DDB6-->
+    <Address>1790</Address>
+    <Value>-8778</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--level 3 Parameter CRC- low word (hex) = 55D1-->
+    <Address>1791</Address>
+    <Value>21969</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO1 map1 sub index and size (hex) = 0000-->
+    <Address>1792</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO1 map1 index (hex) = 0000-->
+    <Address>1793</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO1 map2 sub index and size (hex) = 0000-->
+    <Address>1794</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO1 map2 index (hex) = 0000-->
+    <Address>1795</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO1 map3 sub index and size (hex) = 0000-->
+    <Address>1796</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO1 map3 index (hex) = 0000-->
+    <Address>1797</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO1 map4 sub index and size (hex) = 0000-->
+    <Address>1798</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO1 map4 index (hex) = 0000-->
+    <Address>1799</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO1 size (words) () = 0-->
+    <Address>1800</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO1 transmission type () = 0-->
+    <Address>1801</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO1 timeout (ms) = 0-->
+    <Address>1802</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Encoder Sin Fault Range (V) = 0-->
+    <Address>1803</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO2 map1 sub index and size (hex) = 0000-->
+    <Address>1804</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO2 map1 index (hex) = 0000-->
+    <Address>1805</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO2 map2 sub index and size (hex) = 0000-->
+    <Address>1806</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO2 map2 index (hex) = 0000-->
+    <Address>1807</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO2 map3 sub index and size (hex) = 0000-->
+    <Address>1808</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO2 map3 index (hex) = 0000-->
+    <Address>1809</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO2 map4 sub index and size (hex) = 0000-->
+    <Address>1810</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO2 map4 index (hex) = 0000-->
+    <Address>1811</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO2 size (words) () = 0-->
+    <Address>1812</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO2 transmission type () = 0-->
+    <Address>1813</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO2 timeout (ms) = 0-->
+    <Address>1814</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Encoder Cos Fault Range (V) = 0-->
+    <Address>1815</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO1 map1 sub index and size (hex) = 0210-->
+    <Address>1816</Address>
+    <Value>528</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO1 map1 index (hex) = 2004-->
+    <Address>1817</Address>
+    <Value>8196</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO1 map2 sub index and size (hex) = 0A10-->
+    <Address>1818</Address>
+    <Value>2576</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO1 map2 index (hex) = 2004-->
+    <Address>1819</Address>
+    <Value>8196</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO1 map3 sub index and size (hex) = 0810-->
+    <Address>1820</Address>
+    <Value>2064</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO1 map3 index (hex) = 2004-->
+    <Address>1821</Address>
+    <Value>8196</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO1 map4 sub index and size (hex) = 0710-->
+    <Address>1822</Address>
+    <Value>1808</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO1 map4 index (hex) = 2004-->
+    <Address>1823</Address>
+    <Value>8196</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO1 size (words) () = 4-->
+    <Address>1824</Address>
+    <Value>4</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO1 transmission type () = 0-->
+    <Address>1825</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO1 event time (ms) = 1000-->
+    <Address>1826</Address>
+    <Value>1000</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO1 sync window () = 0-->
+    <Address>1827</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO2 map1 sub index and size (hex) = 0000-->
+    <Address>1828</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO2 map1 index (hex) = 0000-->
+    <Address>1829</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO2 map2 sub index and size (hex) = 0000-->
+    <Address>1830</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO2 map2 index (hex) = 0000-->
+    <Address>1831</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO2 map3 sub index and size (hex) = 0000-->
+    <Address>1832</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO2 map3 index (hex) = 0000-->
+    <Address>1833</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO2 map4 sub index and size (hex) = 0000-->
+    <Address>1834</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO2 map4 index (hex) = 0000-->
+    <Address>1835</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO2 size (words) () = 0-->
+    <Address>1836</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO2 transmission type () = 0-->
+    <Address>1837</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO2 event time (ms) = 0-->
+    <Address>1838</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO2 sync window () = 0-->
+    <Address>1839</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO3 map1 sub index and size (hex) = 0000-->
+    <Address>1840</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO3 map1 index (hex) = 0000-->
+    <Address>1841</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO3 map2 sub index and size (hex) = 0000-->
+    <Address>1842</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO3 map2 index (hex) = 0000-->
+    <Address>1843</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO3 map3 sub index and size (hex) = 0000-->
+    <Address>1844</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO3 map3 index (hex) = 0000-->
+    <Address>1845</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO3 map4 sub index and size (hex) = 0000-->
+    <Address>1846</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO3 map4 index (hex) = 0000-->
+    <Address>1847</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO3 size (words) () = 0-->
+    <Address>1848</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO3 transmission type () = 0-->
+    <Address>1849</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO3 event time (ms) = 0-->
+    <Address>1850</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO3  sync window () = 0-->
+    <Address>1851</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO4 map1 sub index and size (hex) = 0000-->
+    <Address>1852</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO4 map1 index (hex) = 0000-->
+    <Address>1853</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO4 map2 sub index and size (hex) = 0000-->
+    <Address>1854</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO4 map2 index (hex) = 0000-->
+    <Address>1855</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO4 map3 sub index and size (hex) = 0000-->
+    <Address>1856</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO4 map3 index (hex) = 0000-->
+    <Address>1857</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO4 map4 sub index and size (hex) = 0000-->
+    <Address>1858</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO4 map4 index (hex) = 0000-->
+    <Address>1859</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO4 size (words) () = 0-->
+    <Address>1860</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO4 transmission type () = 0-->
+    <Address>1861</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO4 event time (ms) = 0-->
+    <Address>1862</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO4  sync window () = 0-->
+    <Address>1863</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--CAN quiet after sleep command (ms) = 0-->
+    <Address>1864</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--CAN quiet after sync loss (ms) = 0-->
+    <Address>1865</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--CAN heartbeat period (ms) = 0-->
+    <Address>1866</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Encoder analog noise threshold (V) = 0-->
+    <Address>1867</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO1 COBID (low word) (hex) = 0000-->
+    <Address>1868</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO1 COBID (high word) (hex) = 0000-->
+    <Address>1869</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO2 COBID (low word) (hex) = 0000-->
+    <Address>1870</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO2 COBID (high word) (hex) = 0000-->
+    <Address>1871</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO1 COBID (low word) (hex) = 01AA-->
+    <Address>1872</Address>
+    <Value>426</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO1 COBID (high word) (hex) = 4000-->
+    <Address>1873</Address>
+    <Value>16384</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO2 COBID (low word) (hex) = 0000-->
+    <Address>1874</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO2 COBID (high word) (hex) = 0000-->
+    <Address>1875</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO3 COBID (low word) (hex) = 0000-->
+    <Address>1876</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO3 COBID (high word) (hex) = 0000-->
+    <Address>1877</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO4 COBID (low word) (hex) = 0000-->
+    <Address>1878</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO4 COBID (high word) (hex) = 0000-->
+    <Address>1879</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Level 1 Features () = 0000000000000000-->
+    <Address>1880</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Spare 1881 level 1 () = 0-->
+    <Address>1881</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Throttle filter speed control () = 0-->
+    <Address>1882</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Throttle filter high voltage () = 0-->
+    <Address>1883</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Reserved Parameter 1884 () = 0-->
+    <Address>1884</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Reserved Parameter 1885 () = 0-->
+    <Address>1885</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Reserved Parameter 1886 () = 0-->
+    <Address>1886</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Reserved Parameter 1887 () = 0-->
+    <Address>1887</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Reserved Parameter 1888 () = 0-->
+    <Address>1888</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Reserved Parameter 1889 () = 0-->
+    <Address>1889</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Reserved Parameter 1890 () = 0-->
+    <Address>1890</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Reserved Parameter 1891 () = 0-->
+    <Address>1891</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Reserved Parameter 1892 () = 0-->
+    <Address>1892</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Accelerometer first angle (degrees) = 0-->
+    <Address>1893</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Accelerometer second angle (degrees) = 0-->
+    <Address>1894</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Accelerometer first offset (PU) = 0-->
+    <Address>1895</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Accelerometer second offset (PU) = 0-->
+    <Address>1896</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Accelerometer angle filter (bits) = 0-->
+    <Address>1897</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Accelerometer incline angle offset (degrees) = 0-->
+    <Address>1898</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Requested starting 1 (RPM) = 0-->
+    <Address>1899</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Requested ending 1 (RPM) = 0-->
+    <Address>1900</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Requested starting 2 (% of rated) = 0-->
+    <Address>1901</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Requested ending 2 (% of rated) = 0-->
+    <Address>1902</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Sensorless to Hall Transition Frequency (Hz) = 0-->
+    <Address>1903</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Level 2 HW bits () = 0000000000000000-->
+    <Address>1904</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Level 2 spare 1905 (1) = 0-->
+    <Address>1905</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Assist Gain 4 (pu) = 0-->
+    <Address>1906</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Assist Gain 5 (pu) = 0-->
+    <Address>1907</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Assist Gain 6 (pu) = 0-->
+    <Address>1908</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Assist Gain 7 (pu) = 0-->
+    <Address>1909</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Assist Gain 8 (pu) = 0-->
+    <Address>1910</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Assist Gain 9 (pu) = 0-->
+    <Address>1911</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Assist Speed 4 (pu) = 0-->
+    <Address>1912</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Assist Speed 5 (pu) = 0-->
+    <Address>1913</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Assist Speed 6 (pu) = 0-->
+    <Address>1914</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Assist Speed 7 (pu) = 0-->
+    <Address>1915</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Assist Speed 8 (pu) = 0-->
+    <Address>1916</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Assist Speed 9 (pu) = 0-->
+    <Address>1917</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Accelerometer sideways cutoff threshold (degree) = 0-->
+    <Address>1918</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Features3 () = 0000000000000000-->
+    <Address>1919</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Vehicle Maximum Speed for Pedalec Assistance (Km/h) = 0-->
+    <Address>1920</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Full Pedalec Assistance Speed for Pedal Torque gain (Km/h) = 0-->
+    <Address>1921</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Maximum Pedalec Assistance Gain for Pedal torque (G) = 0-->
+    <Address>1922</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Torque Sensor Low Voltage Threshold (Volts) = 0-->
+    <Address>1923</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Torque Sensor High Voltage Threshold (Volts) = 0-->
+    <Address>1924</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Torque Sensor Static Voltage Fault Threshold (Volts) = 0-->
+    <Address>1925</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Torque Sensor Static Voltage Fault Time (ms) = 0-->
+    <Address>1926</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Torque Sensor Voltage Filter (bits) = 0-->
+    <Address>1927</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Dual Speed Sensor Primary Pulse Source () = PFS-->
+    <Address>1928</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Dual speed pulses missing time threshold (ms) = 0-->
+    <Address>1929</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Mid Speed Setpoint Pedalac gain (RPM) = 0-->
+    <Address>1930</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--End Speed Setpoint Pedalac gain (RPM) = 0-->
+    <Address>1931</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Dyname Starting Pedalec Gain () = 0-->
+    <Address>1932</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Dyname Ending Pedalec Gain () = 0-->
+    <Address>1933</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Dyname rolling start ignore torque (Nm) = 0-->
+    <Address>1934</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Wheel Lock/Antitheft disable source () = PFS-->
+    <Address>1935</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Reverse_Enable_Source () = Cruise-->
+    <Address>1936</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Accelerometer Incline Source () = X_angle-->
+    <Address>1937</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Accelerometer Tilt Source () = X_angle-->
+    <Address>1938</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Accelerometer tilt offset () = 0-->
+    <Address>1939</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Minimum Pedalec Assistance Gain for Pedal torque (G) = 0-->
+    <Address>1940</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Starting Pedal speed for dynamic negative ramp (RPM) = 0-->
+    <Address>1941</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Ending Pedal speed for dynamic negative ramp (RPM) = 0-->
+    <Address>1942</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Pedalec minimum negative motoring torque ramp (ms) = 0-->
+    <Address>1943</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Walk Speed RPM () = 0-->
+    <Address>1944</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Ending Slope for dynamic pedal ramp () = 0-->
+    <Address>1945</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Starting Slope for dynamic pedal ramp () = 0-->
+    <Address>1946</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Speed regulator Kp Q10 () = 0-->
+    <Address>1947</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Motor Temperature Short Detection Window (Volts) = 0-->
+    <Address>1948</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Speed regulator Kp for Walk mode () = 0-->
+    <Address>1949</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Speed regulator Ki for Walk mode () = 0-->
+    <Address>1950</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Shared Motor Temp and Wheel speed timeout (ms) = 0-->
+    <Address>1951</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Analog Brake Deadband Range (V) = 0.2-->
+    <Address>1952</Address>
+    <Value>819</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Analog brake fault range (V) = 0.2-->
+    <Address>1953</Address>
+    <Value>819</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPM Limit (rpm) = 0-->
+    <Address>1954</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Current Regulator Kcc  () = 6999.75-->
+    <Address>1955</Address>
+    <Value>27999</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Encoder Sine High Voltage  () = 0-->
+    <Address>1956</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Encoder Sine Low Voltage  () = 0-->
+    <Address>1957</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Encoder Cos High Voltage  () = 0-->
+    <Address>1958</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Encoder Cos Low Voltage  () = 0-->
+    <Address>1959</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Encoder Sine V Source () = Custom: 0-->
+    <Address>1960</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Encoder Cos V Source () = Custom: 0-->
+    <Address>1961</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Encoder offset (degrees) = 0-->
+    <Address>1962</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Motor Current Threshold to Switch from External Sensor to Motor (pu Amps) = 0-->
+    <Address>1963</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Flash parameter read access code 2 () = 0000-->
+    <Address>1964</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Flash parameter read access code 3 () = 0000-->
+    <Address>1965</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Open Phase Fault Detection Threshold (Amps) = 0-->
+    <Address>1966</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Delayed Input Source () = 0000000000000000-->
+    <Address>1967</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Delayed Input Period (ms) = 0-->
+    <Address>1968</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Hot battery foldback starting temperature (deg C) = 0-->
+    <Address>1969</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Hot battery foldback ending temperature (deg C) = 0-->
+    <Address>1970</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Comm Loss Limp Mode Speed (pu) = 0-->
+    <Address>1971</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Comm Loss Limp Mode Power (pu) = 0-->
+    <Address>1972</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Comm loss Limp Mode Interval (s) = 0-->
+    <Address>1973</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Features4 () = 0000000000000000-->
+    <Address>1974</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--BETA: Low Speed Kp Value () = 0-->
+    <Address>1975</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--BETA: Low Speed Kp Start Threshold (% motor speed) = 0-->
+    <Address>1976</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--BETA: Low Speed Kp End Threshold (% motor speed) = 0-->
+    <Address>1977</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--BETA: Target Speed Ki Value () = 0-->
+    <Address>1978</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--BETA: Target Speed Ki Start Threshold (% motor speed) = 0-->
+    <Address>1979</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--BETA: Target Speed Ki End Threshold (% motor speed) = 0-->
+    <Address>1980</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Dual analog throttle fault threshold (%) = 0-->
+    <Address>1981</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Secondary throttle off voltage (v) = 0-->
+    <Address>1982</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Secondary throttle source for dual analog throttle () = 0-->
+    <Address>1983</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Vehicle Speed threshold for Regen and Cutoff (km/hr) = 0-->
+    <Address>1984</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Reserved_1985 () = 0-->
+    <Address>1985</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Reserved_1986 () = 0-->
+    <Address>1986</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Bidirectional Throttle Midpoint (V) = 0-->
+    <Address>1987</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Bidirectional Throttle Deadband (V) = 0-->
+    <Address>1988</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Encoder Noise Frequency Threshold (hz) = 0-->
+    <Address>1989</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Motor RPM Foldback Start % (% of rated motor rpm) = 0-->
+    <Address>1990</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Motor RPM Foldback End % (% of rated motor rpm) = 0-->
+    <Address>1991</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--*BETA* BackEMF Regen Foldback Start Speed (% of rated motor rpm) = 0-->
+    <Address>1992</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Cruise Motoring Torque Limit (% of rated motor current) = 0-->
+    <Address>1993</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Cruise Braking Torque Limit (% of rated motor current) = 0-->
+    <Address>1994</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Cruise Enable Source () = 0000000000000000-->
+    <Address>1995</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Minimum Cruise Speed (km/hr) = 0-->
+    <Address>1996</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Cruise Input Mode () = 0-->
+    <Address>1997</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Throttle Overclose Voltage (V) = 0-->
+    <Address>1998</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Transition Total Duration (ms) = 0-->
+    <Address>1999</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Transition Pulse On Period (ms) = 0-->
+    <Address>2000</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Transition Pulse Off Period (ms) = 0-->
+    <Address>2001</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Transition Buzz Strength (%) = 0-->
+    <Address>2002</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Transition Buzz Frequency (Hz) = 0-->
+    <Address>2003</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Secondary throttle full voltage (v) = 0-->
+    <Address>2004</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Secondary Cutoff brake sensor source () = Brake 1-->
+    <Address>2005</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Features5 () = 0000000000000000-->
+    <Address>2006</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Cruise Disengage Increase Threshold (% of input range) = 0-->
+    <Address>2007</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--CAN Battery Comm Timeout (ms) = 0-->
+    <Address>2008</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Alternate CAN Protocols () = 0000000000000000-->
+    <Address>2009</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Momentary Assist Source () = 0000000000000000-->
+    <Address>2010</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Momentary Assist Modes () = 0-->
+    <Address>2011</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Delayed Input Destination () = 0000000000000000-->
+    <Address>2012</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Unused_test_param2 () = 0-->
+    <Address>2013</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Customer_param_11 () = 0-->
+    <Address>2014</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Customer_param_12 () = 0-->
+    <Address>2015</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Customer_param_1 () = 0-->
+    <Address>2016</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Customer_param_2 () = 0-->
+    <Address>2017</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Customer_param_3 () = 0-->
+    <Address>2018</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Customer_param_4 () = 0-->
+    <Address>2019</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Customer_param_5 () = 0-->
+    <Address>2020</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Customer_param_6 () = 0-->
+    <Address>2021</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Customer_param_7 () = 0-->
+    <Address>2022</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Customer_param_8 () = 0-->
+    <Address>2023</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Customer_param_9 () = 0-->
+    <Address>2024</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Customer_param_10 () = 0-->
+    <Address>2025</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--MFG Power On Date () = 0-->
+    <Address>2026</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--MFG Final Test Date () = 0-->
+    <Address>2027</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Product Part Number () = 0-->
+    <Address>2028</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Part Number Revision () = 0-->
+    <Address>2029</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--MFG Customer Parameter File () = 0-->
+    <Address>2030</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--MFG Firmware File () = 0-->
+    <Address>2031</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--MFG Flowcheck () = 0-->
+    <Address>2032</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--MFG Location Code () = 0-->
+    <Address>2033</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--MFG Config Test Station Serial Number () = 0-->
+    <Address>2034</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--MFG PCBA Serial Number 1 () = 0-->
+    <Address>2035</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--MFG PCBA Serial Number 2 () = 0-->
+    <Address>2036</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--MFG ASY Serial Number 1 () = 0-->
+    <Address>2037</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--MFG ASY Serial Number 2 () = 0-->
+    <Address>2038</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--MFG POT Serial Number 1 () = 0-->
+    <Address>2039</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--MFG POT Serial Number 2 () = 0-->
+    <Address>2040</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--MFG ASY Bridge Test Station SN () = 0-->
+    <Address>2041</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--MFG ASY Functional Test Station SN () = 0-->
+    <Address>2042</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--MFG POT Bridge Test Station SN () = 0-->
+    <Address>2043</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--MFG POT Functional Test Station SN () = 0-->
+    <Address>2044</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--MFG Test Register () = 0-->
+    <Address>2045</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--MicroElectronics Test Register () = 0-->
+    <Address>2046</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TE Configuration () = 0-->
+    <Address>2047</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO3 map1 sub index and size (hex) = 0000-->
+    <Address>2048</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO3 map1 index (hex) = 0000-->
+    <Address>2049</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO3 map2 sub index and size (hex) = 0000-->
+    <Address>2050</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO3 map2 index (hex) = 0000-->
+    <Address>2051</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO3 map3 sub index and size (hex) = 0000-->
+    <Address>2052</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO3 map3 index (hex) = 0000-->
+    <Address>2053</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO3 map4 sub index and size (hex) = 0000-->
+    <Address>2054</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO3 map4 index (hex) = 0000-->
+    <Address>2055</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO3 size (words) () = 0-->
+    <Address>2056</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO3 transmission type () = 0-->
+    <Address>2057</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO3 timeout (ms) = 0-->
+    <Address>2058</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Reserved_Rpdo_3 () = 0-->
+    <Address>2059</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO4 map1 sub index and size (hex) = 0000-->
+    <Address>2060</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO4 map1 index (hex) = 0000-->
+    <Address>2061</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO4 map2 sub index and size (hex) = 0000-->
+    <Address>2062</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO4 map2 index (hex) = 0000-->
+    <Address>2063</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO4 map3 sub index and size (hex) = 0000-->
+    <Address>2064</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO4 map3 index (hex) = 0000-->
+    <Address>2065</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO4 map4 sub index and size (hex) = 0000-->
+    <Address>2066</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO4 map4 index (hex) = 0000-->
+    <Address>2067</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO4 size (words) () = 0-->
+    <Address>2068</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO4 transmission type () = 0-->
+    <Address>2069</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO4 timeout (ms) = 0-->
+    <Address>2070</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Reserved_Rpdo_4 () = 0-->
+    <Address>2071</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO5 map1 sub index and size (hex) = 0000-->
+    <Address>2072</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO5 map1 index (hex) = 0000-->
+    <Address>2073</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO5 map2 sub index and size (hex) = 0000-->
+    <Address>2074</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO5 map2 index (hex) = 0000-->
+    <Address>2075</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO5 map3 sub index and size (hex) = 0000-->
+    <Address>2076</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO5 map3 index (hex) = 0000-->
+    <Address>2077</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO5 map4 sub index and size (hex) = 0000-->
+    <Address>2078</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO5 map4 index (hex) = 0000-->
+    <Address>2079</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO5 size (words) () = 0-->
+    <Address>2080</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO5 transmission type () = 0-->
+    <Address>2081</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO5 timeout (ms) = 0-->
+    <Address>2082</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Reserved_Rpdo_5 () = 0-->
+    <Address>2083</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO6 map1 sub index and size (hex) = 0000-->
+    <Address>2084</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO6 map1 index (hex) = 0000-->
+    <Address>2085</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO6 map2 sub index and size (hex) = 0000-->
+    <Address>2086</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO6 map2 index (hex) = 0000-->
+    <Address>2087</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO6 map3 sub index and size (hex) = 0000-->
+    <Address>2088</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO6 map3 index (hex) = 0000-->
+    <Address>2089</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO6 map4 sub index and size (hex) = 0000-->
+    <Address>2090</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO6 map4 index (hex) = 0000-->
+    <Address>2091</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO6 size (words) () = 0-->
+    <Address>2092</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO6 transmission type () = 0-->
+    <Address>2093</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO6 timeout (ms) = 0-->
+    <Address>2094</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Reserved_Rpdo_6 () = 0-->
+    <Address>2095</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO7 map1 sub index and size (hex) = 0000-->
+    <Address>2096</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO7 map1 index (hex) = 0000-->
+    <Address>2097</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO7 map2 sub index and size (hex) = 0000-->
+    <Address>2098</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO7 map2 index (hex) = 0000-->
+    <Address>2099</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO7 map3 sub index and size (hex) = 0000-->
+    <Address>2100</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO7 map3 index (hex) = 0000-->
+    <Address>2101</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO7 map4 sub index and size (hex) = 0000-->
+    <Address>2102</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO7 map4 index (hex) = 0000-->
+    <Address>2103</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO7 size (words) () = 0-->
+    <Address>2104</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO7 transmission type () = 0-->
+    <Address>2105</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO7 timeout (ms) = 0-->
+    <Address>2106</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Reserved_Rpdo_7 () = 0-->
+    <Address>2107</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO8 map1 sub index and size (hex) = 0000-->
+    <Address>2108</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO8 map1 index (hex) = 0000-->
+    <Address>2109</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO8 map2 sub index and size (hex) = 0000-->
+    <Address>2110</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO8 map2 index (hex) = 0000-->
+    <Address>2111</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO8 map3 sub index and size (hex) = 0000-->
+    <Address>2112</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO8 map3 index (hex) = 0000-->
+    <Address>2113</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO8 map4 sub index and size (hex) = 0000-->
+    <Address>2114</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO8 map4 index (hex) = 0000-->
+    <Address>2115</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO8 size (words) () = 0-->
+    <Address>2116</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO8 transmission type () = 0-->
+    <Address>2117</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO8 timeout (ms) = 0-->
+    <Address>2118</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Reserved_Rpdo_8 () = 0-->
+    <Address>2119</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO9 map1 sub index and size (hex) = 0000-->
+    <Address>2120</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO9 map1 index (hex) = 0000-->
+    <Address>2121</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO9 map2 sub index and size (hex) = 0000-->
+    <Address>2122</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO9 map2 index (hex) = 0000-->
+    <Address>2123</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO9 map3 sub index and size (hex) = 0000-->
+    <Address>2124</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO9 map3 index (hex) = 0000-->
+    <Address>2125</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO9 map4 sub index and size (hex) = 0000-->
+    <Address>2126</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO9 map4 index (hex) = 0000-->
+    <Address>2127</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO9 size (words) () = 0-->
+    <Address>2128</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO9 transmission type () = 0-->
+    <Address>2129</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO9 timeout (ms) = 0-->
+    <Address>2130</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Reserved_Rpdo_9 () = 0-->
+    <Address>2131</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO10 map1 sub index and size (hex) = 0000-->
+    <Address>2132</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO10 map1 index (hex) = 0000-->
+    <Address>2133</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO10 map2 sub index and size (hex) = 0000-->
+    <Address>2134</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO10 map2 index (hex) = 0000-->
+    <Address>2135</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO10 map3 sub index and size (hex) = 0000-->
+    <Address>2136</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO10 map3 index (hex) = 0000-->
+    <Address>2137</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO10 map4 sub index and size (hex) = 0000-->
+    <Address>2138</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO10 map4 index (hex) = 0000-->
+    <Address>2139</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO10 size (words) () = 0-->
+    <Address>2140</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO10 transmission type () = 0-->
+    <Address>2141</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO10 timeout (ms) = 0-->
+    <Address>2142</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Reserved_Rpdo_10 () = 0-->
+    <Address>2143</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO11 map1 sub index and size (hex) = 0000-->
+    <Address>2144</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO11 map1 index (hex) = 0000-->
+    <Address>2145</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO11 map2 sub index and size (hex) = 0000-->
+    <Address>2146</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO11 map2 index (hex) = 0000-->
+    <Address>2147</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO11 map3 sub index and size (hex) = 0000-->
+    <Address>2148</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO11 map3 index (hex) = 0000-->
+    <Address>2149</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO11 map4 sub index and size (hex) = 0000-->
+    <Address>2150</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO11 map4 index (hex) = 0000-->
+    <Address>2151</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO11 size (words) () = 0-->
+    <Address>2152</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO11 transmission type () = 0-->
+    <Address>2153</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO11 timeout (ms) = 0-->
+    <Address>2154</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Reserved_Rpdo_11 () = 0-->
+    <Address>2155</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO12 map1 sub index and size (hex) = 0000-->
+    <Address>2156</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO12 map1 index (hex) = 0000-->
+    <Address>2157</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO12 map2 sub index and size (hex) = 0000-->
+    <Address>2158</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO12 map2 index (hex) = 0000-->
+    <Address>2159</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO12 map3 sub index and size (hex) = 0000-->
+    <Address>2160</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO12 map3 index (hex) = 0000-->
+    <Address>2161</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO12 map4 sub index and size (hex) = 0000-->
+    <Address>2162</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO12 map4 index (hex) = 0000-->
+    <Address>2163</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO12 size (words) () = 0-->
+    <Address>2164</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO12 transmission type () = 0-->
+    <Address>2165</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO12 timeout (ms) = 0-->
+    <Address>2166</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Reserved_Rpdo_12 () = 0-->
+    <Address>2167</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO5 map1 sub index and size (hex) = 0000-->
+    <Address>2168</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO5 map1 index (hex) = 0000-->
+    <Address>2169</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO5 map2 sub index and size (hex) = 0000-->
+    <Address>2170</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO5 map2 index (hex) = 0000-->
+    <Address>2171</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO5 map3 sub index and size (hex) = 0000-->
+    <Address>2172</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO5 map3 index (hex) = 0000-->
+    <Address>2173</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO5 map4 sub index and size (hex) = 0000-->
+    <Address>2174</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO5 map4 index (hex) = 0000-->
+    <Address>2175</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO5 size (words) () = 0-->
+    <Address>2176</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO5 transmission type () = 0-->
+    <Address>2177</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO5 event time (ms) = 0-->
+    <Address>2178</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO5 sync window () = 0-->
+    <Address>2179</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO6 map1 sub index and size (hex) = 0000-->
+    <Address>2180</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO6 map1 index (hex) = 0000-->
+    <Address>2181</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO6 map2 sub index and size (hex) = 0000-->
+    <Address>2182</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO6 map2 index (hex) = 0000-->
+    <Address>2183</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO6 map3 sub index and size (hex) = 0000-->
+    <Address>2184</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO6 map3 index (hex) = 0000-->
+    <Address>2185</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO6 map4 sub index and size (hex) = 0000-->
+    <Address>2186</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO6 map4 index (hex) = 0000-->
+    <Address>2187</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO6 size (words) () = 0-->
+    <Address>2188</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO6 transmission type () = 0-->
+    <Address>2189</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO6 event time (ms) = 0-->
+    <Address>2190</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO6 sync window () = 0-->
+    <Address>2191</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO7 map1 sub index and size (hex) = 0000-->
+    <Address>2192</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO7 map1 index (hex) = 0000-->
+    <Address>2193</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO7 map2 sub index and size (hex) = 0000-->
+    <Address>2194</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO7 map2 index (hex) = 0000-->
+    <Address>2195</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO7 map3 sub index and size (hex) = 0000-->
+    <Address>2196</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO7 map3 index (hex) = 0000-->
+    <Address>2197</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO7 map4 sub index and size (hex) = 0000-->
+    <Address>2198</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO7 map4 index (hex) = 0000-->
+    <Address>2199</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO7 size (words) () = 0-->
+    <Address>2200</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO7 transmission type () = 0-->
+    <Address>2201</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO7 event time (ms) = 0-->
+    <Address>2202</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO7 sync window () = 0-->
+    <Address>2203</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO8 map1 sub index and size (hex) = 0000-->
+    <Address>2204</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO8 map1 index (hex) = 0000-->
+    <Address>2205</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO8 map2 sub index and size (hex) = 0000-->
+    <Address>2206</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO8 map2 index (hex) = 0000-->
+    <Address>2207</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO8 map3 sub index and size (hex) = 0000-->
+    <Address>2208</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO8 map3 index (hex) = 0000-->
+    <Address>2209</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO8 map4 sub index and size (hex) = 0000-->
+    <Address>2210</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO8 map4 index (hex) = 0000-->
+    <Address>2211</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO8 size (words) () = 0-->
+    <Address>2212</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO8 transmission type () = 0-->
+    <Address>2213</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO8 event time (ms) = 0-->
+    <Address>2214</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO8 sync window () = 0-->
+    <Address>2215</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO9 map1 sub index and size (hex) = 0000-->
+    <Address>2216</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO9 map1 index (hex) = 0000-->
+    <Address>2217</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO9 map2 sub index and size (hex) = 0000-->
+    <Address>2218</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO9 map2 index (hex) = 0000-->
+    <Address>2219</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO9 map3 sub index and size (hex) = 0000-->
+    <Address>2220</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO9 map3 index (hex) = 0000-->
+    <Address>2221</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO9 map4 sub index and size (hex) = 0000-->
+    <Address>2222</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO9 map4 index (hex) = 0000-->
+    <Address>2223</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO9 size (words) () = 0-->
+    <Address>2224</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO9 transmission type () = 0-->
+    <Address>2225</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO9 event time (ms) = 0-->
+    <Address>2226</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO9 sync window () = 0-->
+    <Address>2227</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO10 map1 sub index and size (hex) = 0000-->
+    <Address>2228</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO10 map1 index (hex) = 0000-->
+    <Address>2229</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO10 map2 sub index and size (hex) = 0000-->
+    <Address>2230</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO10 map2 index (hex) = 0000-->
+    <Address>2231</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO10 map3 sub index and size (hex) = 0000-->
+    <Address>2232</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO10 map3 index (hex) = 0000-->
+    <Address>2233</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO10 map4 sub index and size (hex) = 0000-->
+    <Address>2234</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO10 map4 index (hex) = 0000-->
+    <Address>2235</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO10 size (words) () = 0-->
+    <Address>2236</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO10 transmission type () = 0-->
+    <Address>2237</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO10 event time (ms) = 0-->
+    <Address>2238</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO10 sync window () = 0-->
+    <Address>2239</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO11 map1 sub index and size (hex) = 0000-->
+    <Address>2240</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO11 map1 index (hex) = 0000-->
+    <Address>2241</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO11 map2 sub index and size (hex) = 0000-->
+    <Address>2242</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO11 map2 index (hex) = 0000-->
+    <Address>2243</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO11 map3 sub index and size (hex) = 0000-->
+    <Address>2244</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO11 map3 index (hex) = 0000-->
+    <Address>2245</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO11 map4 sub index and size (hex) = 0000-->
+    <Address>2246</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO11 map4 index (hex) = 0000-->
+    <Address>2247</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO11 size (words) () = 0-->
+    <Address>2248</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO11 transmission type () = 0-->
+    <Address>2249</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO11 event time (ms) = 0-->
+    <Address>2250</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO11 sync window () = 0-->
+    <Address>2251</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO12 map1 sub index and size (hex) = 0000-->
+    <Address>2252</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO12 map1 index (hex) = 0000-->
+    <Address>2253</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO12 map2 sub index and size (hex) = 0000-->
+    <Address>2254</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO12 map2 index (hex) = 0000-->
+    <Address>2255</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO12 map3 sub index and size (hex) = 0000-->
+    <Address>2256</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO12 map3 index (hex) = 0000-->
+    <Address>2257</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO12 map4 sub index and size (hex) = 0000-->
+    <Address>2258</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO12 map4 index (hex) = 0000-->
+    <Address>2259</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO12 size (words) () = 0-->
+    <Address>2260</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO12 transmission type () = 0-->
+    <Address>2261</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO12 event time (ms) = 0-->
+    <Address>2262</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO12 sync window () = 0-->
+    <Address>2263</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO3 COBID (low word) (hex) = 0000-->
+    <Address>2264</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO3 COBID (high word) (hex) = 0000-->
+    <Address>2265</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO4 COBID (low word) (hex) = 0000-->
+    <Address>2266</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO4 COBID (high word) (hex) = 0000-->
+    <Address>2267</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO5 COBID (low word) (hex) = 0000-->
+    <Address>2268</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO5 COBID (high word) (hex) = 0000-->
+    <Address>2269</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO6 COBID (low word) (hex) = 0000-->
+    <Address>2270</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO6 COBID (high word) (hex) = 0000-->
+    <Address>2271</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO7 COBID (low word) (hex) = 0000-->
+    <Address>2272</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO7 COBID (high word) (hex) = 0000-->
+    <Address>2273</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO8 COBID (low word) (hex) = 0000-->
+    <Address>2274</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO8 COBID (high word) (hex) = 0000-->
+    <Address>2275</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO9 COBID (low word) (hex) = 0000-->
+    <Address>2276</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO9 COBID (high word) (hex) = 0000-->
+    <Address>2277</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO10 COBID (low word) (hex) = 0000-->
+    <Address>2278</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO10 COBID (high word) (hex) = 0000-->
+    <Address>2279</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO11 COBID (low word) (hex) = 0000-->
+    <Address>2280</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO11 COBID (high word) (hex) = 0000-->
+    <Address>2281</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO12 COBID (low word) (hex) = 0000-->
+    <Address>2282</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--RPDO12 COBID (high word) (hex) = 0000-->
+    <Address>2283</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO5 COBID (low word) (hex) = 0000-->
+    <Address>2284</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO5 COBID (high word) (hex) = 0000-->
+    <Address>2285</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO6 COBID (low word) (hex) = 0000-->
+    <Address>2286</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO6 COBID (high word) (hex) = 0000-->
+    <Address>2287</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO7 COBID (low word) (hex) = 0000-->
+    <Address>2288</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO7 COBID (high word) (hex) = 0000-->
+    <Address>2289</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO8 COBID (low word) (hex) = 0000-->
+    <Address>2290</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO8 COBID (high word) (hex) = 0000-->
+    <Address>2291</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO9 COBID (low word) (hex) = 0000-->
+    <Address>2292</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO9 COBID (high word) (hex) = 0000-->
+    <Address>2293</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO10 COBID (low word) (hex) = 0000-->
+    <Address>2294</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO10 COBID (high word) (hex) = 0000-->
+    <Address>2295</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO11 COBID (low word) (hex) = 0000-->
+    <Address>2296</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO11 COBID (high word) (hex) = 0000-->
+    <Address>2297</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO12 COBID (low word) (hex) = 0000-->
+    <Address>2298</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--TPDO12 COBID (high word) (hex) = 0000-->
+    <Address>2299</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Dynamic Flash Write Interval (seconds) (seconds) = 30-->
+    <Address>2300</Address>
+    <Value>3</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Spare parameter 3-1 (hex) = 0000-->
+    <Address>2301</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Throttle Sensitivity (pu) = 0-->
+    <Address>2302</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+  <SerializableParameter>
+    <!--Spare parameter 3-2 (hex) = 0000-->
+    <Address>2303</Address>
+    <Value>0</Value>
+  </SerializableParameter>
+</ArrayOfSerializableParameter>

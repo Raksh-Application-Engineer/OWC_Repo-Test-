@@ -1,0 +1,6 @@
+minimalmodbus==2.1.1
+pyserial==3.5
+Pillow==10.0.1
+# Windows-specific packages (install conditionally)
+pywin32>=227; sys_platform == "win32"
+winshell>=0.6; sys_platform == "win32"
